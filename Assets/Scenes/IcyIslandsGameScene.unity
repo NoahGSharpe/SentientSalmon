@@ -154,6 +154,42 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 200
       objectReference: {fileID: 0}
+    - target: {fileID: 6968623276154957060, guid: 35b4c6cfc20525e4094bea6378166521, type: 3}
+      propertyPath: m_Colors.m_PressedColor.b
+      value: 0.65882355
+      objectReference: {fileID: 0}
+    - target: {fileID: 6968623276154957060, guid: 35b4c6cfc20525e4094bea6378166521, type: 3}
+      propertyPath: m_Colors.m_PressedColor.g
+      value: 0.65882355
+      objectReference: {fileID: 0}
+    - target: {fileID: 6968623276154957060, guid: 35b4c6cfc20525e4094bea6378166521, type: 3}
+      propertyPath: m_Colors.m_PressedColor.r
+      value: 0.65882355
+      objectReference: {fileID: 0}
+    - target: {fileID: 6968623276154957060, guid: 35b4c6cfc20525e4094bea6378166521, type: 3}
+      propertyPath: m_Colors.m_SelectedColor.b
+      value: 0.65882355
+      objectReference: {fileID: 0}
+    - target: {fileID: 6968623276154957060, guid: 35b4c6cfc20525e4094bea6378166521, type: 3}
+      propertyPath: m_Colors.m_SelectedColor.g
+      value: 0.65882355
+      objectReference: {fileID: 0}
+    - target: {fileID: 6968623276154957060, guid: 35b4c6cfc20525e4094bea6378166521, type: 3}
+      propertyPath: m_Colors.m_SelectedColor.r
+      value: 0.65882355
+      objectReference: {fileID: 0}
+    - target: {fileID: 6968623276154957060, guid: 35b4c6cfc20525e4094bea6378166521, type: 3}
+      propertyPath: m_Colors.m_HighlightedColor.b
+      value: 0.78431374
+      objectReference: {fileID: 0}
+    - target: {fileID: 6968623276154957060, guid: 35b4c6cfc20525e4094bea6378166521, type: 3}
+      propertyPath: m_Colors.m_HighlightedColor.g
+      value: 0.78431374
+      objectReference: {fileID: 0}
+    - target: {fileID: 6968623276154957060, guid: 35b4c6cfc20525e4094bea6378166521, type: 3}
+      propertyPath: m_Colors.m_HighlightedColor.r
+      value: 0.78431374
+      objectReference: {fileID: 0}
     - target: {fileID: 6968623276277131325, guid: 35b4c6cfc20525e4094bea6378166521, type: 3}
       propertyPath: m_Name
       value: EndTrainingMenu
@@ -269,6 +305,42 @@ PrefabInstance:
     - target: {fileID: 6968623276289167937, guid: 35b4c6cfc20525e4094bea6378166521, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 200
+      objectReference: {fileID: 0}
+    - target: {fileID: 6968623276289167938, guid: 35b4c6cfc20525e4094bea6378166521, type: 3}
+      propertyPath: m_Colors.m_PressedColor.b
+      value: 0.65882355
+      objectReference: {fileID: 0}
+    - target: {fileID: 6968623276289167938, guid: 35b4c6cfc20525e4094bea6378166521, type: 3}
+      propertyPath: m_Colors.m_PressedColor.g
+      value: 0.65882355
+      objectReference: {fileID: 0}
+    - target: {fileID: 6968623276289167938, guid: 35b4c6cfc20525e4094bea6378166521, type: 3}
+      propertyPath: m_Colors.m_PressedColor.r
+      value: 0.65882355
+      objectReference: {fileID: 0}
+    - target: {fileID: 6968623276289167938, guid: 35b4c6cfc20525e4094bea6378166521, type: 3}
+      propertyPath: m_Colors.m_SelectedColor.b
+      value: 0.65882355
+      objectReference: {fileID: 0}
+    - target: {fileID: 6968623276289167938, guid: 35b4c6cfc20525e4094bea6378166521, type: 3}
+      propertyPath: m_Colors.m_SelectedColor.g
+      value: 0.65882355
+      objectReference: {fileID: 0}
+    - target: {fileID: 6968623276289167938, guid: 35b4c6cfc20525e4094bea6378166521, type: 3}
+      propertyPath: m_Colors.m_SelectedColor.r
+      value: 0.65882355
+      objectReference: {fileID: 0}
+    - target: {fileID: 6968623276289167938, guid: 35b4c6cfc20525e4094bea6378166521, type: 3}
+      propertyPath: m_Colors.m_HighlightedColor.b
+      value: 0.78431374
+      objectReference: {fileID: 0}
+    - target: {fileID: 6968623276289167938, guid: 35b4c6cfc20525e4094bea6378166521, type: 3}
+      propertyPath: m_Colors.m_HighlightedColor.g
+      value: 0.78431374
+      objectReference: {fileID: 0}
+    - target: {fileID: 6968623276289167938, guid: 35b4c6cfc20525e4094bea6378166521, type: 3}
+      propertyPath: m_Colors.m_HighlightedColor.r
+      value: 0.78431374
       objectReference: {fileID: 0}
     - target: {fileID: 6968623276356293988, guid: 35b4c6cfc20525e4094bea6378166521, type: 3}
       propertyPath: m_AnchoredPosition.x
